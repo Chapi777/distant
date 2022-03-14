@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Serialichik</string>
+    <string name="choose_button">Выбрать сериал</string>
+
+    <string-array name="choose_genre">
+        <item>Фэнтази</item>>
+        <item>Криминал</item>>
+        <item>Документал</item>>
+        <item>Комедия</item>>
+    </string-array>
+</resources>
